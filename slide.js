@@ -7,7 +7,7 @@ var spa = (function ( $ ){
     configMap = { 
         extended_height : 434, 
         extended_title : 'Click to retract', 
-        retracted_height : 16, 
+        retracted_height : 32, 
         retracted_title : 'click to extend', 
         template_html : '<div class="spa-slider"><\/div>'
     },
